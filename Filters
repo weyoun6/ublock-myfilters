@@ -1,3 +1,10 @@
+! Title: ublock-myfilters
+! Description: Filters to clean up Youtube, Spotify and others
+! Expires: 4 days
+! License: none
+! Homepage: https://github.com/weyoun6/ublock-myfilters
+! Forums: none
+
 ! 2021-04-01 https://www.youtube.com
 www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-small.style-suggestive.ytd-button-renderer.style-scope
 www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
