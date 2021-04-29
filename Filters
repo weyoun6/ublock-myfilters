@@ -1,0 +1,16 @@
+! 2021-04-01 https://www.youtube.com
+www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-small.style-suggestive.ytd-button-renderer.style-scope
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
+
+! 2021-04-18 https://www.youtube.com
+www.youtube.com###guide-inner-content
+
+! 2020-09-20 https://open.spotify.com
+open.spotify.com##.Rootlist__playlists
+open.spotify.com##._186766435454b6e18fec29440fbb9fc4-scss._110dbc41d89af63f97cdd8b7cd7fea47-scss._3f37264be67c8f40fa9f76449afdb4bd-scss
+open.spotify.com##._5c12c73a4f38b98340ea33803209fdc8-scss._4dfd6d092d9e182093e453606400f1cc-scss > ._47872eede19af06725157ba21fea3516-scss.link-subtle
+
+! 2021-04-29 https://open.spotify.com
+open.spotify.com##._5c12c73a4f38b98340ea33803209fdc8-scss._4dfd6d092d9e182093e453606400f1cc-scss > ._47872eede19af06725157ba21fea3516-scss.link-subtle
+open.spotify.com##._186766435454b6e18fec29440fbb9fc4-scss._110dbc41d89af63f97cdd8b7cd7fea47-scss._3f37264be67c8f40fa9f76449afdb4bd-scss
