@@ -11,6 +11,20 @@ www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
 www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
 www.youtube.com###guide-inner-content
 
+! 2021-05-10 https://www.youtube.com
+www.youtube.com###guide-content
+www.youtube.com###contentContainer > .ytd-app.style-scope
+www.youtube.com##.tp-yt-app-drawer.style-scope
+www.youtube.com###start
+www.youtube.com###guide
+www.youtube.com###sponsor-button
+www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-destructive.ytd-button-renderer.style-scope
+www.youtube.com##.ytd-comments.style-scope
+www.youtube.com##.ytd-video-primary-info-renderer.style-scope > .ytd-menu-renderer.style-scope.top-level-buttons
+www.youtube.com###button > .yt-icon-button.style-scope
+www.youtube.com###sentiment
+www.youtube.com###menu-container
+
 ! 2020-09-20 https://open.spotify.com
 open.spotify.com##.Rootlist__playlists
 open.spotify.com##._186766435454b6e18fec29440fbb9fc4-scss._110dbc41d89af63f97cdd8b7cd7fea47-scss._3f37264be67c8f40fa9f76449afdb4bd-scss
