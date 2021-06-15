@@ -32,3 +32,15 @@ open.spotify.com##._5c12c73a4f38b98340ea33803209fdc8-scss._4dfd6d092d9e182093e45
 
 ! 2020-10-07 https://www.digitaltrends.com
 www.digitaltrends.com###vjs_video_3 > .vjs-tech
+
+! 2021-06-04 https://arstechnica.com
+arstechnica.com###article-footer-wrap
+arstechnica.com##.site-footer
+arstechnica.com##div.column-wrapper > .xrail
+arstechnica.com##.header-highlight-link
+arstechnica.com###header-account
+arstechnica.com###social-footer > .share-links
+
+! 2021-06-04 https://feedly.com
+feedly.com##.TopHeaderBar
+feedly.com##.col-xl-3-xlarge-only.col-xl-3
