@@ -43,3 +43,9 @@ www.digitaltrends.com###vjs_video_3 > .vjs-tech
 ! 2021-06-04 https://feedly.com
 feedly.com##.TopHeaderBar
 feedly.com##.col-xl-3-xlarge-only.col-xl-3
+
+! 2021-07-13 https://www.spectator.co.uk
+www.spectator.co.uk##.MeterBanner-module__banner
+www.spectator.co.uk##.DataWallDefault-module__subscribe
+www.spectator.co.uk##.DataWallDefault-module__register
+www.spectator.co.uk##.HeaderRibbon2Default-module__header-ribbon
