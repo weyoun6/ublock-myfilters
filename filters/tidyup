@@ -49,3 +49,27 @@ www.spectator.co.uk##.MeterBanner-module__banner
 www.spectator.co.uk##.DataWallDefault-module__subscribe
 www.spectator.co.uk##.DataWallDefault-module__register
 www.spectator.co.uk##.HeaderRibbon2Default-module__header-ribbon
+
+! 2021-07-14 https://www.spectator.co.uk
+www.spectator.co.uk##.Img-module__outer-container--aspect-ratio-wide.Img-module__outer-container > .Img-module__inner-container > .Img-module__picture
+www.spectator.co.uk##.Img-module__outer-container--aspect-ratio-square.Img-module__outer-container > .Img-module__inner-container > .Img-module__picture
+www.spectator.co.uk##.Img-module__outer-container--aspect-ratio-wide.Img-module__outer-container > .Img-module__inner-container
+www.spectator.co.uk##.ContentPageHero-module__container
+www.spectator.co.uk##.Img-module__outer-container--aspect-ratio-square.Img-module__outer-container > .Img-module__inner-container
+www.spectator.co.uk##.Img-module__outer-container--aspect-ratio-square.Img-module__outer-container
+www.spectator.co.uk##.ContentPageAuthor-module__author__pic
+||assets.spectator.co.uk/img/10k-edition/10k-edition-footer-*.jpg$image
+www.spectator.co.uk##.ContentPageTags-module__container
+www.spectator.co.uk##.ContentPageFooterTools-module__tools
+www.spectator.co.uk##.ContentPageFooterAuthor-module__author > .Hyperlink2-module__link--political
+www.spectator.co.uk##.SsrSiteHeader-module__primary-header
+www.spectator.co.uk##.spectator-container.spectator-footer
+www.spectator.co.uk##.ContentPageTools-module__tools
+www.spectator.co.uk##.HouseSlotSubscriptionBanner-module__container__outer--theme-red.HouseSlotSubscriptionBanner-module__container__outer--small.HouseSlotSubscriptionBanner-module__container__outer
+www.spectator.co.uk##.HouseSlotSubscriptionBanner-module__container__outer--theme-red.HouseSlotSubscriptionBanner-module__container__outer--large.HouseSlotSubscriptionBanner-module__container__outer
+www.spectator.co.uk##.RelatedContent-module__container--outer
+www.spectator.co.uk##.MidrollMostPopular-module__container__inner
+www.spectator.co.uk##.ContentPageCommentsSection-module__container__outer
+www.spectator.co.uk##.PrimaryHeaderDefault-module__primary-header
+www.spectator.co.uk##.SecondaryHeader2-module__secondary-header__container--outer__IE-fixed.SecondaryHeader2-module__secondary-header__container--outer
+www.spectator.co.uk##.SecondaryHeader2-module__secondary-header__container--outer
