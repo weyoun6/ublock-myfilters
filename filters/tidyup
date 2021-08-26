@@ -28,6 +28,12 @@ www.youtube.com###menu-container
 ! 2021-05-30 https://www.youtube.com
 www.youtube.com###voice-search-button > .size-default.style-default.ytd-masthead.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-default.ytd-button-renderer.style-scope
 
+! 2021-08-26 https://www.youtube.com
+www.youtube.com###details-text > .yt-bubble-hint-renderer.style-scope
+www.youtube.com###text > .yt-bubble-hint-renderer.style-scope
+www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
+www.youtube.com###voice-search-button
+
 ! 2020-09-20 https://open.spotify.com
 open.spotify.com##.Rootlist__playlists
 open.spotify.com##._186766435454b6e18fec29440fbb9fc4-scss._110dbc41d89af63f97cdd8b7cd7fea47-scss._3f37264be67c8f40fa9f76449afdb4bd-scss
