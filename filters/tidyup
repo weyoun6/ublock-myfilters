@@ -34,6 +34,10 @@ www.youtube.com###text > .yt-bubble-hint-renderer.style-scope
 www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
 www.youtube.com###voice-search-button
 
+! 2022-03-11 https://www.youtube.com
+www.youtube.com###dismissible > .ytd-statement-banner-renderer.style-scope
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-renderer.style-scope
+
 ! 2020-09-20 https://open.spotify.com
 open.spotify.com##.Rootlist__playlists
 open.spotify.com##._186766435454b6e18fec29440fbb9fc4-scss._110dbc41d89af63f97cdd8b7cd7fea47-scss._3f37264be67c8f40fa9f76449afdb4bd-scss
