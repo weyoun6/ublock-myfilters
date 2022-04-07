@@ -38,6 +38,14 @@ www.youtube.com###voice-search-button
 www.youtube.com###dismissible > .ytd-statement-banner-renderer.style-scope
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-renderer.style-scope
 
+! 2022-04-07 https://m.youtube.com
+m.youtube.com##.slim-video-action-bar-actions > c3-material-button.compact.button-renderer > .c3-material-button-button
+m.youtube.com##ytm-slim-metadata-toggle-button-renderer > .compact.button-renderer > .c3-material-button-button > .cbox
+m.youtube.com##.cbox > h2
+m.youtube.com##ytm-comments-entry-point-header-renderer > .cbox
+m.youtube.com##ytm-comments-entry-point-header-renderer
+m.youtube.com##.mobile-topbar-header-sign-in-button
+
 ! 2020-09-20 https://open.spotify.com
 open.spotify.com##.Rootlist__playlists
 open.spotify.com##._186766435454b6e18fec29440fbb9fc4-scss._110dbc41d89af63f97cdd8b7cd7fea47-scss._3f37264be67c8f40fa9f76449afdb4bd-scss
