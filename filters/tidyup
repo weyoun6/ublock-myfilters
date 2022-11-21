@@ -123,3 +123,7 @@ open.spotify.com##.Foyk_HJx16yh22JYmQ56 > .eNs6P3JYpf2LScgTDHc6 > .ATUzFKub89lzv
 
 ! 2022-11-18 https://www.icloud.com
 ||www.icloud.com/system/icloud.com/current/static/fpo@1x.mp4$media
+
+! 2022-11-21 https://www.youtube.com
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope > yt-button-shape
+www.youtube.com###end
