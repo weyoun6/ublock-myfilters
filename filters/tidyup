@@ -153,3 +153,22 @@ www.reddit.com##._1tvThPWQpORoc2taKebHxs._3Kd8DQpBIbsr5E1JcrMFTY
 
 ! 2022-12-15 https://www.reddit.com
 www.reddit.com##._1vXXD2qKLnHetdKvisFzBD
+
+! 2022-12-23 https://www.spectator.co.uk
+www.spectator.co.uk##body > .subscription-banner--small.subscription-banner
+www.spectator.co.uk###js-header-secondary
+www.spectator.co.uk##.data-tracker
+www.spectator.co.uk##section.subscription-banner--small.subscription-banner:nth-of-type(2)
+www.spectator.co.uk##section.subscription-banner--small.subscription-banner:nth-of-type(4)
+www.spectator.co.uk##.home-section.home-magazine
+www.spectator.co.uk##section.subscription-banner--small.subscription-banner:nth-of-type(9)
+www.spectator.co.uk##.home-section.home-podcasts
+www.spectator.co.uk##.highlight-color-blue.home-section.home-life
+www.spectator.co.uk##div.container:nth-of-type(4)
+www.spectator.co.uk###js-site-footer
+www.spectator.co.uk##.header-primary
+www.spectator.co.uk##.entry-content__wrapper > .entry-meta > .entry-meta__item--social.entry-meta__item
+www.spectator.co.uk##.entry-footer > .entry-meta > .entry-meta__item--social.entry-meta__item
+www.spectator.co.uk##.topics-list__inner
+www.spectator.co.uk##.related-articles
+www.spectator.co.uk##.container.comments-container
