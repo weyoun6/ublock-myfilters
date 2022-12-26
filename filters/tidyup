@@ -172,3 +172,9 @@ www.spectator.co.uk##.entry-footer > .entry-meta > .entry-meta__item--social.ent
 www.spectator.co.uk##.topics-list__inner
 www.spectator.co.uk##.related-articles
 www.spectator.co.uk##.container.comments-container
+
+! 2022-12-26 https://www.spectator.co.uk
+www.spectator.co.uk##.entry-content > .subscription-banner--small.subscription-banner
+www.spectator.co.uk##.entry-footer > .entry-meta
+www.spectator.co.uk##blockquote
+www.spectator.co.uk##.highlight-color-red.insert--most-popular.insert
