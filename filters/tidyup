@@ -178,3 +178,12 @@ www.spectator.co.uk##.entry-content > .subscription-banner--small.subscription-b
 www.spectator.co.uk##.entry-footer > .entry-meta
 www.spectator.co.uk##blockquote
 www.spectator.co.uk##.highlight-color-red.insert--most-popular.insert
+
+! 2023-02-07 https://arstechnica.com
+arstechnica.com##.scrolled-up.site-header
+arstechnica.com##div.column-wrapper > .xrail
+arstechnica.com###article-footer-wrap
+arstechnica.com##.site-footer
+
+! 2023-02-09 https://www.reddit.com
+www.reddit.com##._2BlCG_Fre5CwjrmCj-tn1q
