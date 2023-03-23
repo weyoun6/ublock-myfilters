@@ -194,4 +194,38 @@ www.bbc.co.uk##.nw-c-news-navigation
 www.bbc.co.uk##.nw-o-news-branding
 
 ! 2023-03-14 https://www.bbc.co.uk - NOTE: some more aggressive cosmetic cleanup
+www.bbc.co.uk##.b-pw-1280.no-touch.gs-u-box-size.gs-t-news.nw-c-most-watched > .gel-wrap
+www.bbc.co.uk##.orb-nav-empty.orb-nav-pri-white.orb-nav-pri
+www.bbc.co.uk##.orb-footer-promo-loaded.orbit-domestic-yes.orb-footer
+www.bbc.co.uk##.b-pw-1280.gs-u-box-size.no-touch.ws-c-social-slice
+www.bbc.co.uk##.b-pw-1280.no-touch.gs-u-box-size.gs-t-news.nw-c-sport
+www.bbc.co.uk##.b-pw-1280.gs-u-box-size.no-touch.gs-t-news.nw-c-Newsbeat
+www.bbc.co.uk###u4299626646699501 > .b-pw-1280.no-touch.gs-u-box-size.gs-t-news.nw-c-most-read > .gel-wrap
+www.bbc.co.uk##.b-pw-1280.no-touch.gs-u-box-size.gs-t-news.nw-c-must-see > .gel-wrap
+www.bbc.co.uk##.nw-o-news-branding
+www.bbc.co.uk##.no-touch.nw-c-local.js-local-news > .b-pw-1280.gs-u-box-size.no-touch > .gel-wrap
+www.bbc.co.uk##.e140xmwz0.ssrcss-1a6al6l-ChameleonGlobalNavigation
+www.bbc.co.uk##.e9p57e2.ssrcss-110xoo0-Masthead
+www.bbc.co.uk##.e137mbpu0.ssrcss-hxc1qn-Grid
+www.bbc.co.uk##.ejnx8uh0.ssrcss-1gyzvqx-GlobalFooterStyling
+www.bbc.co.uk##.eqbrg0n1.ssrcss-1h2752w-HorizontalPromosLayout
+www.bbc.co.uk##.nw-c-nav__wide-secondary
 
+! 2023-03-17 https://open.spotify.com
+open.spotify.com##.os-host-transition.tojGvx6tcIBmKlICMJAZ.os-host-scrollbar-vertical-hidden.os-host-scrollbar-horizontal-hidden.os-host-resize-disabled.os-theme-spotify.os-host-foreign.os-host > .os-padding > .os-viewport-native-scrollbars-overlaid.os-viewport-native-scrollbars-invisible.os-viewport > .os-content
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.fmWLzA.Button-sc-y0gtbx-0
+open.spotify.com##.NyIynkmMpZXSoaE3XGhA
+open.spotify.com##div.contentSpacing:nth-of-type(5)
+
+! 2023-03-21 https://unherd.com
+unherd.com##.code-block-4.code-block
+unherd.com##.post.menu
+unherd.com###thepost > hr
+unherd.com##.previous > .related-post
+unherd.com##.comment-break
+unherd.com##.wpd-form-wrap
+unherd.com##.post.menu
+unherd.com##.splash
+
+! 2023-03-23 https://unherd.com
+unherd.com###wrapper-footer
