@@ -222,6 +222,11 @@ www.bbc.co.uk###u09454451367186167 > .b-pw-1280.no-touch.gs-u-box-size.gs-t-news
 ! Change your nation selection
 www.bbc.co.uk##.gs-u-display-block.gs-u-display-none.gs-u-mt\+.nw-c-settings.gs-u-box-size.gs-t-news
 
+! 2023-03-24 https://www.bbc.co.uk
+www.bbc.co.uk##.e1mcntqj3.ssrcss-115e9m-StyledZone
+www.bbc.co.uk##.env7qt33.ssrcss-44tgo1-ServiceBar
+www.bbc.co.uk##.e1f9r9nm1.ssrcss-sww1d6-StyledContainer
+
 ! 2023-03-17 https://open.spotify.com
 open.spotify.com##.os-host-transition.tojGvx6tcIBmKlICMJAZ.os-host-scrollbar-vertical-hidden.os-host-scrollbar-horizontal-hidden.os-host-resize-disabled.os-theme-spotify.os-host-foreign.os-host > .os-padding > .os-viewport-native-scrollbars-overlaid.os-viewport-native-scrollbars-invisible.os-viewport > .os-content
 open.spotify.com##.Upqw01TOXETOmR5Td7Dj.fmWLzA.Button-sc-y0gtbx-0
